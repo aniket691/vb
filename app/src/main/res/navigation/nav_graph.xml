@@ -7,22 +7,22 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.example.navigationdrawer.fragments.MainFragment"
+        android:name="com.vbsolutions.navigationdrawer.fragments.MainFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main" />
     <fragment
         android:id="@+id/aboutFragment"
-        android:name="com.example.navigationdrawer.fragments.AboutFragment"
+        android:name="com.vbsolutions.navigationdrawer.fragments.AboutFragment"
         android:label="fragment_about"
         tools:layout="@layout/fragment_about" />
     <fragment
         android:id="@+id/teamFragment"
-        android:name="com.example.navigationdrawer.fragments.Team"
+        android:name="com.vbsolutions.navigationdrawer.fragments.Team"
         android:label="fragment_team"
         tools:layout="@layout/fragment_team" />
     <fragment
         android:id="@+id/contactFragment"
-        android:name="com.example.navigationdrawer.fragments.Contact"
+        android:name="com.vbsolutions.navigationdrawer.fragments.Contact"
         android:label="fragment_contact"
         tools:layout="@layout/fragment_contact" />
 </navigation>
